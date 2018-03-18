@@ -2,132 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="712a343c-940d-45e7-b897-795728e9462c" name="Default" comment="+ Masha">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/._.DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Player1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Player2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Player3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Player4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Player5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Player6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/Song.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork7/SuperPlayer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/Bouquet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/Camomile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/FlowerStore.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/FlowersLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/FlowersSaver.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/Rose.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/SuperFlower.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/HomeWork8/Tulip.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/homeWork11/Library01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/homeWork11/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/HomeWorks/homeWork9/MyArrayList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Lessons_drafts/PoolExample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/MyPlayground_JavaFx_1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/OfflinePractice/Task0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/OfflinePractice/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/OfflinePractice/Task3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/OfflinePractice09_10/Point.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Practice8/Company.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Practice8/FullTime.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Practice8/PartTime.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Practice8/Workers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/SHIT.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Task1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Task2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Task3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Task4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Task5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/out/production/GoIT(workspace)/Task6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/._.DS_Store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/.idea/dictionaries/MARIA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/GoIT(workspace).iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Drafts/HomeWork3_draft.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/Car/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/Car/CarDoor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/Car/CarWheel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/Car/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/Car/UserMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Player1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Player2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Player3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Player4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Player5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Player6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/PlayingMusicAbility.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Playlist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/Song.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork7/SuperPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/Bouquet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/Camomile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/FlowerStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/FlowersLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/FlowersSaver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/Rose.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/SuperFlower.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/HomeWork8/Tulip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/homeWork11/Library01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/homeWork11/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/homeWork9/MyArrayList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Lessons_drafts/PoolExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/MyPlayground_JavaFx_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/OfflinePractice/Task0.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/OfflinePractice/Task2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/OfflinePractice/Task3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/OfflinePractice09_10/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/OfflinePractice09_10/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/OfflinePractice09_10/Task2/Line.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Practice8/Company.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Practice8/FullTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Practice8/PartTime.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Practice8/Workers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/SHIT.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Task1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Task2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Task3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Task4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Task5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoIT(workspace)/src/Task6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Forest/Squirell.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Forest/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/Info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interfaces/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Modul_5_1/ClassA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Modul_5_1/CountOfObjects.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Modul_5_1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Modul_5_1/StaticExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/ClassesAndObjects.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Constuctor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Metods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Nasledovanie/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Nasledovanie/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Nasledovanie/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Nasledovanie/Nasledov.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Recursion_Practice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Practice/Recursion_Practice/Static.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_3/HomeWork/HomeWork_3_1.java" afterPath="$PROJECT_DIR$/src/Modul_3/HomeWork/HomeWork_3_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_1.java" afterPath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_2.java" afterPath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_4.java" afterPath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_4.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_5.java" afterPath="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_5.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -143,7 +23,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -153,36 +33,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Animal.java">
+      <file leaf-file-name="HomeWork_3_1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/HomeWork_3_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Dog.java">
+      <file leaf-file-name="Practice_3_1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="408">
+              <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice_3_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
-                <element signature="e#301#302#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice_3_4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Practice_3_5.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -250,11 +153,16 @@
         <option value="$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Dog.java" />
         <option value="$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Cat.java" />
         <option value="$PROJECT_DIR$/src/Practice/Recursion_Practice/Polymorfizm/Test.java" />
+        <option value="$PROJECT_DIR$/src/Modul_3/HomeWork/HomeWork_3_1.java" />
+        <option value="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_1.java" />
+        <option value="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_2.java" />
+        <option value="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_4.java" />
+        <option value="$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_5.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1922" />
+    <option name="x" value="1917" />
     <option name="width" value="959" />
     <option name="height" value="1040" />
   </component>
@@ -352,6 +260,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modul_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaStady" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaStady" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modul_3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomeWork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaStady" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaStady" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="GoIT(workspace)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -390,15 +338,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration default="false" name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Practice_3_5">
+    <configuration default="false" name="HomeWork_3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Practice.Recursion_Practice.*" />
+          <option name="PATTERN" value="Modul_3.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Practice.Recursion_Practice.Static" />
+      <option name="MAIN_CLASS_NAME" value="Modul_3.HomeWork.HomeWork_3_1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -411,14 +359,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Nasledov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Practice_3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Practice.Recursion_Practice.Nasledovanie.*" />
+          <option name="PATTERN" value="Modul_3.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Practice.Recursion_Practice.Nasledovanie.Nasledov" />
+      <option name="MAIN_CLASS_NAME" value="Modul_3.HomeWork.Practice_3_1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -431,14 +379,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Practice_3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Interfaces.*" />
+          <option name="PATTERN" value="Modul_3.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Interfaces.Test" />
+      <option name="MAIN_CLASS_NAME" value="Modul_3.HomeWork.Practice_3_2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -451,9 +399,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration default="false" name="Practice_3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Modul_3.HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Modul_3.HomeWork.Practice_3_4" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -466,14 +419,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Practice_3_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Practice.Recursion_Practice.Polymorfizm.*" />
+          <option name="PATTERN" value="Modul_3.HomeWork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Practice.Recursion_Practice.Polymorfizm.Test" />
+      <option name="MAIN_CLASS_NAME" value="Modul_3.HomeWork.Practice_3_5" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -691,19 +644,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Static" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Nasledov" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Test (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HomeWork_3_1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Practice_3_1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Practice_3_2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Practice_3_4" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Practice_3_5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Nasledov" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Static" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Practice_3_5" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Practice_3_4" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Practice_3_2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Practice_3_1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HomeWork_3_1" />
       </list>
     </recent_temporary>
   </component>
@@ -729,34 +682,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1922" y="0" width="959" height="1040" extended-state="0" />
+    <frame x="1917" y="0" width="959" height="1040" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867885" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34371644" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34371644" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.495228" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.495228" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867885" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955715" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -770,7 +723,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -779,62 +732,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/Add_to_Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/ConsoleNumberInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/ForEach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/Lekcia_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/OverLoad_Metod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/Practice_4_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Modul_4/ScannerExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Modul_5/Gear.java" />
     <entry file="file://$PROJECT_DIR$/src/Modul_5/clock/utils/Gear.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1089,8 +986,8 @@
         <state relative-caret-position="136">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="false" />
+            <element signature="e#198#199#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1100,7 +997,7 @@
         <state relative-caret-position="187">
           <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding>
-            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1118,6 +1015,78 @@
         <state relative-caret-position="204">
           <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/ArrayIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/In_Reading_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/Practice_3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/HomeWork_3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_3/HomeWork/Practice_3_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="53" lean-forward="false" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
