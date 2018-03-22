@@ -35,7 +35,7 @@ public class Lekcia_5 {
         System.out.println("dog4.name \t" + dog4.name + "\t\t" + dog4.getAge());
 
         dog.show(); // так выводить проще, чем строчки выше
-        dog1.show(); // внутринасти на вывод написале в доге
+        dog1.show(); // внутринасти на вывод написале  в доге
         dog2.show(); // выводит тоже, что и выше, но меньше кода
         dog3.show();
         dog4.show();
