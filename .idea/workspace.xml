@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="712a343c-940d-45e7-b897-795728e9462c" name="Default" comment="+ Masha">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaStady/Modul_5/HomeWork_5/CarDoor/CarDoor.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaStady/Modul_5/HomeWork_5/Main.class" afterPath="$PROJECT_DIR$/out/production/JavaStady/Modul_5/HomeWork_5/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaStady/Modul_4/Recursion.class" afterPath="$PROJECT_DIR$/out/production/JavaStady/Modul_4/Recursion.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_1.java" afterPath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_2.java" afterPath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_4.java" afterPath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_4.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_5.java" afterPath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_7.java" afterPath="$PROJECT_DIR$/src/Modul_4/HomeWork/HomeWork_4_7.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/HomeWork/Practice_4_1.java" afterPath="$PROJECT_DIR$/src/Modul_4/HomeWork/Practice_4_1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/HomeWork/Practice_4_2.java" afterPath="$PROJECT_DIR$/src/Modul_4/HomeWork/Practice_4_2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Main.java" afterPath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Tesla/Car.java" afterPath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Tesla/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Tesla/CarDoor.java" afterPath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Tesla/CarDoor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Tesla/CarWheel.java" afterPath="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Tesla/CarWheel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5/Lekcia_5.java" afterPath="$PROJECT_DIR$/src/Modul_5/Lekcia_5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5/clock/Rolex.java" afterPath="$PROJECT_DIR$/src/Modul_5/clock/Rolex.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5_1/JavaFXMain.java" afterPath="$PROJECT_DIR$/src/Modul_5_1/JavaFXMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_4/Recursion.java" afterPath="$PROJECT_DIR$/src/Modul_4/Recursion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Modul_5_1/AdvanceFXMain.java" afterPath="$PROJECT_DIR$/src/Modul_5_1/AdvanceFXMain.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,16 +21,40 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaFXMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaFXMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Modul_5_1/JavaFXMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#314#315#0" expanded="true" />
                 <element signature="e#342#343#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvanceFXMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Modul_5_1/AdvanceFXMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recursion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Modul_4/Recursion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -72,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Modul_5/clock/Lekcia_5.java" />
-        <option value="$PROJECT_DIR$/src/Modul_5/clock/clock/Rolex.java" />
         <option value="$PROJECT_DIR$/src/Modul_5/Gear.java" />
         <option value="$PROJECT_DIR$/src/Modul_5/Main_for_Rolex.java" />
         <option value="$PROJECT_DIR$/src/Modul_5/clock/utils/Gear.java" />
@@ -123,11 +132,13 @@
         <option value="$PROJECT_DIR$/src/Modul_5/HomeWork_5/Tesla/Car.java" />
         <option value="$PROJECT_DIR$/src/Modul_5_1/JavaFX.java" />
         <option value="$PROJECT_DIR$/src/Modul_5_1/JavaFXMain.java" />
+        <option value="$PROJECT_DIR$/src/Modul_4/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/Modul_5_1/AdvanceFXMain.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="827" />
+    <option name="x" value="826" />
     <option name="width" value="1032" />
     <option name="height" value="1040" />
   </component>
@@ -203,6 +214,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modul_4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaStady" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaStady" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="GoIT(workspace)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -245,27 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaFXMain">
-    <configuration default="false" name="Practice_4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Modul_4.HomeWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Modul_4.HomeWork.Practice_4_1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaStady" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.AdvanceFXMain">
     <configuration default="false" name="Practice_4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -334,6 +343,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Modul_5_1.JavaFXMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaStady" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdvanceFXMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Modul_5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Modul_5_1.AdvanceFXMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -551,19 +580,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Practice_4_1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Practice_4_2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main_for_Rolex" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.JavaFXMain" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Practice_4_2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main_for_Rolex" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JavaFXMain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AdvanceFXMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.JavaFXMain" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main_for_Rolex" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Practice_4_2" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Practice_4_1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AdvanceFXMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JavaFXMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main_for_Rolex" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Practice_4_2" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +618,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="827" y="0" width="1032" height="1040" extended-state="0" />
+    <frame x="826" y="0" width="1032" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -640,20 +669,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GoIT(workspace)/src/HomeWorks/Car/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoIT(workspace)/src/Task5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Practice/Recursion_Practice/Static.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -967,12 +982,12 @@
         <state relative-caret-position="595">
           <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding>
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#506#507#0" expanded="false" />
+            <element signature="e#914#915#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1044#1045#0" expanded="false" />
+            <element signature="e#1126#1127#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1117,14 +1132,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_4/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Modul_5_1/JavaFXMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
             <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modul_5_1/AdvanceFXMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="57" column="10" lean-forward="false" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
           </folding>
         </state>
       </provider>

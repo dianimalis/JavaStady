@@ -4,7 +4,7 @@ package Modul_4;
  * Created by dianimalis on 05.02.2018.
  */
 public class Recursion {
-    static int fact (int n){
+    public static int fact (int n){
         if (n == 1){ // если n не равняется 1, то код пойдет выполняться дальше
             return 1; // если n равняется 1, то ретурн вернет единицу и выполнение кода прекратится
         }
